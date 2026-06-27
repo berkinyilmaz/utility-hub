@@ -4,7 +4,7 @@ One link to all 30 tools from the *30 Web Apps in 30 Days* series — search, fi
 ---
 
 ## Live Demo
-_Coming soon_
+https://utility-hub-navy-six.vercel.app/
 
 ---
 
