@@ -217,7 +217,7 @@ export const PROJECTS = [
     name: 'Habit Tracker',
     blurb: 'Track daily habits with streaks and a minimal calendar view.',
     category: 'productivity',
-    demo: 'https://habits-tracker-app.vercel.app',
+    demo: 'https://habit-tracker-two-henna.vercel.app/',
     repo: repo('habit-tracker'),
   },
   {
